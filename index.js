@@ -76,7 +76,6 @@ const getApi = () => {
 }
 // connecting the input to the console
 
-
 // I am going to create a addEventListener so that when I click on it, it will print in the console
 button.addEventListener('click', function(event){
     // console.log(input.value)
